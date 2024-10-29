@@ -4,7 +4,7 @@ MIT License
 Copyright (c) [2024] 
 Organization: Perlatecnica APS ETS
 Author: Mauro D'Angelo
-Example to use the LSM6DSV16X 6D Orientation
+Example to use the LPS22DF for getting temperature and pressure
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
